@@ -1,9 +1,9 @@
-<!-- TODO: pull in a logo to this repo so it can stand alone. -->
-<img src="https://github.com/getmash/mash/raw/main/.github/logo.svg" height="100px" width="auto" />
+<img src="https://github.com/user-attachments/assets/5b8de88c-4b40-4656-8cc7-cabf0a38ed60" height="50px" width="auto" />
 
-Current online monetization and audience relationship tools aren't working. Take power back from big-tech and stop relying on ads and high-friction subscriptions.
-[Mash](https://mash.com/) is the monetization & relationship toolkit for the digital era.
+###### Knowledge Agents for Technical B2B Revenue Teams
 
-## Attribution
+---
 
-- Mash makes use of emoji assets provided by X's [Twemoji](https://twemoji.twitter.com/) project.
+[<kbd> <br> Learn more <br> </kbd>][Link]
+
+[Link]: https://mash.com 'Link with example title.'
