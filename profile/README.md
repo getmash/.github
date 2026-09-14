@@ -26,8 +26,9 @@ Most of our work lives in private repos. What's public here is the odd fork and
 anything we open-source along the way.
 
 We're hiring engineers who want small scope-to-impact ratios and no layers.
+Get in touch about roles at Mash at https://mash.com/careers or reach out 
+if you're awesome at mailto:contact@mash.com 
 
-[<kbd> <br> mash.com <br> </kbd>][site] &nbsp; [<kbd> <br> Work with us <br> </kbd>][careers]
+[<kbd> <br> mash.com <br> </kbd>][site]
 
 [site]: https://mash.com 'Mash — your Personal Relationship Manager'
-[careers]: https://mash.com/careers or reach out if you're awesome mailto:contact@mash.com 'Get in touch about roles at Mash'
